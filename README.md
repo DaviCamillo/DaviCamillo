@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Carlos Barbosa - RS, Brasil • 🎂 16 anos
+  📍 Carlos Barbosa - RS, Brasil • 16 anos
 </p>
 
 ---
@@ -58,7 +58,7 @@ Me tornar um desenvolvedor cada vez melhor e trabalhar profissionalmente com tec
 ## 📫 Contato
 
 <p>
-  (coloque aqui depois: GitHub, LinkedIn, etc)
+https://www.instagram.com/davi.camillo/
 </p>
 
 ---
