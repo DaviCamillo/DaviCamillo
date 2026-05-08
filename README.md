@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Davi+Camillo;Desenvolvedor+Junior;Programação+e+Design;Focado+em+Game+Development;Sempre+evoluindo..." />
 </p>
 
-<h1 align="center">👨‍💻 Davi Camillo</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Level-Dev_Junior-blue" />
   <img src="https://img.shields.io/badge/Idade-16-blue" />
