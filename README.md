@@ -1,174 +1,80 @@
-# camillo
+<h1 align="center">👋 Olá, eu sou o Davi Camillo</h1>
 
-# 👨‍💻 README — Sobre Mim (Versão de Teste)
+<p align="center">
+  💻 Desenvolvedor iniciante | 🎨 Design | 🚀 Em evolução
+</p>
 
-## 📌 Introdução
-
-Olá! Este é um README criado como teste, mas estruturado como se fosse uma apresentação completa de quem eu sou, minhas habilidades, interesses e forma de pensar. A ideia aqui não é apenas listar informações, mas construir uma visão mais ampla, quase como um “perfil técnico + pessoal” em um só lugar.
-
----
-
-## 🧠 Quem Sou Eu
-
-Sou uma pessoa curiosa, prática e que aprende muito fazendo. Tenho interesse forte por tecnologia, principalmente desenvolvimento de software, e gosto de entender como as coisas funcionam por trás dos bastidores.
-
-Não sou do tipo que fica só na teoria — prefiro colocar a mão na massa, testar, errar, corrigir e melhorar.
+<p align="center">
+  📍 Carlos Barbosa - RS, Brasil • 🎂 16 anos
+</p>
 
 ---
 
-## 💻 Interesses em Tecnologia
+## 🚀 Sobre mim
 
-### 🔹 Desenvolvimento
-Tenho foco em desenvolvimento, especialmente:
-
-- Java
-- Projetos de jogos
-- Aplicações para Android
-- Estruturação de sistemas
-
-Gosto de trabalhar com lógica, organização de código e criação de sistemas que realmente funcionem na prática.
+Sou um desenvolvedor iniciante apaixonado por tecnologia, programação e design.  
+Gosto de aprender coisas novas e estou sempre buscando evoluir minhas habilidades para criar projetos cada vez melhores.
 
 ---
 
-### 🎮 Desenvolvimento de Jogos
+## 💻 Tecnologias
 
-Uma das áreas que mais me interessa é criação de jogos. Isso envolve:
-
-- Lógica de gameplay  
-- Estrutura de projeto  
-- Integração com diferentes plataformas (PC + Mobile)  
-- Organização de assets e código  
-
-Projetos com frameworks como LibGDX entram bastante no meu radar.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css" />
+</p>
 
 ---
 
-### 📦 Versionamento com Git
+## 🛠️ Ferramentas
 
-Já trabalho com repositórios e colaboração, então tenho noção de:
-
-- Criar repositórios
-- Fazer commits
-- Trabalhar com branches
-- Merge e resolução de conflitos
-- Compartilhar projetos com outras pessoas
-
-Ainda estou evoluindo nisso, mas já uso no dia a dia.
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
-## 🧩 Forma de Aprender
+## 📈 Jornada
 
-Eu aprendo melhor assim:
-
-1. Testo na prática  
-2. Quebro o código 😅  
-3. Entendo o erro  
-4. Ajusto  
-5. Repito  
-
-Não curto muito só teoria sem aplicação — gosto de ver funcionando.
+- 📚 Estudando programação há 1 ano  
+- 🧠 Base sólida em várias linguagens  
+- 🎯 Foco em evolução constante  
 
 ---
 
-## 🚀 Objetivos
+## 🎮 Interesses
 
-- Criar projetos cada vez mais completos  
-- Desenvolver jogos funcionais para múltiplas plataformas  
-- Melhorar estrutura de código e organização  
-- Trabalhar melhor em equipe usando Git  
-- Evoluir de projetos simples para algo mais profissional  
+- Desenvolvimento de jogos  
+- Programação em geral  
+- Design de interfaces  
 
 ---
 
-## ⚙️ Como Eu Penso Programando
+## 🎯 Objetivo
 
-Quando começo algo, geralmente penso assim:
-
-- O que eu quero que isso faça?
-- Como posso dividir isso em partes menores?
-- Qual a forma mais simples de fazer funcionar primeiro?
-- Depois eu melhoro.
-
-Evito complicar no início. Primeiro funciona, depois fica bonito.
+Me tornar um desenvolvedor cada vez melhor e trabalhar profissionalmente com tecnologia no futuro.
 
 ---
 
-## 🧱 Estrutura de Trabalho
+## 📊 GitHub Stats
 
-Normalmente sigo uma lógica:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
 
-- Crio base do projeto  
-- Faço funcionar o básico  
-- Testo bastante  
-- Ajusto erros  
-- Organizo o código  
-- Penso em melhorias  
-
----
-
-## 🔥 Pontos Fortes
-
-- Persistência (não paro fácil quando dá erro)
-- Curiosidade (sempre quero entender melhor)
-- Aprendizado rápido na prática
-- Vontade de evoluir constantemente
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚠️ Pontos a Melhorar
+## 📫 Contato
 
-- Organização em projetos maiores  
-- Planejamento antes de começar  
-- Documentação mais detalhada  
-- Dominar melhor ferramentas avançadas  
-
----
-
-## 🧪 Projetos (Exemplo)
-
-Alguns tipos de projetos que costumo fazer:
-
-- Jogos simples em Java  
-- Testes com frameworks  
-- Sistemas básicos com classes e herança  
-- Experimentos com lógica  
+<p>
+  (coloque aqui depois: GitHub, LinkedIn, etc)
+</p>
 
 ---
 
-## 🤝 Trabalho em Equipe
-
-Quando trabalho com outras pessoas:
-
-- Tento manter tudo organizado no Git  
-- Busco entender o código dos outros  
-- Ajusto meu código para não quebrar o projeto  
-- Pergunto quando não sei  
-
----
-
-## 📚 Filosofia
-
-> “Melhor um projeto simples funcionando do que um complexo quebrado.”
-
----
-
-## 🔄 Evolução Contínua
-
-Esse README é só um teste, mas representa uma ideia importante: sempre dá pra melhorar.
-
-Daqui a um tempo, muita coisa aqui vai mudar — e isso é bom.
-
----
-
-## 📌 Conclusão
-
-Sou alguém em evolução constante, com foco em tecnologia, desenvolvimento e criação de projetos práticos. Ainda tenho muito pra aprender, mas já estou no caminho certo: construindo, testando e melhorando sempre.
-
----
-
-## 🧪 Observação Final
-
-Esse README foi criado apenas para teste, mas pode facilmente ser adaptado para um perfil real no GitHub no futuro 😉
-
----
+<p align="center">
+  ⚡ "Sempre evoluindo um pouco a cada dia."
+</p>
