@@ -5,44 +5,32 @@
 <h1 align="center">👨‍💻 Davi Camillo</h1>
 
 <p align="center">
-  💻 Programação • 🎨 Design • 🎮 Games
-</p>
-
-<p align="center">
-  📍 Carlos Barbosa - RS, Brasil • 🎂 16 anos
+  <img src="https://img.shields.io/badge/Idade-16-blue" />
+  <img src="https://img.shields.io/badge/Local-Carlos_Barbosa_RS-green" />
+  <img src="https://img.shields.io/badge/Foco-Game_Dev-orange" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor iniciante apaixonado por tecnologia, programação e design.  
-Tenho uma base em várias linguagens e gosto de explorar diferentes áreas, principalmente desenvolvimento de jogos e criação de interfaces.
-
-Atualmente estou focado em evoluir minhas habilidades e construir projetos cada vez mais completos.
+💻 Desenvolvedor iniciante apaixonado por tecnologia, programação e design.  
+🎮 Interessado principalmente em desenvolvimento de jogos.  
+🚀 Sempre buscando evoluir e aprender novas tecnologias.
 
 ---
 
-## 🧠 Conhecimentos
+## 🧠 Tecnologias
 
-- 💻 Linguagens:
-  - Python  
-  - C#  
-  - Java  
-  - JavaScript  
-
-- 🌐 Web:
-  - HTML  
-  - CSS  
-
-- 🗄️ Banco de Dados:
-  - Conceitos básicos  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css" />
+</p>
 
 ---
 
 ## 🛠️ Ferramentas
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
@@ -50,19 +38,21 @@ Atualmente estou focado em evoluir minhas habilidades e construir projetos cada 
 
 ## 🎯 Foco atual
 
-- 📚 Aprendendo mais sobre desenvolvimento  
-- 🎮 Explorando criação de jogos  
-- 🎨 Melhorando habilidades em design  
-- 🚀 Criando novos projetos  
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudando-Programação-blue" />
+  <img src="https://img.shields.io/badge/Aprendendo-Game_Dev-purple" />
+  <img src="https://img.shields.io/badge/Evoluindo-Skills-green" />
+</p>
 
 ---
 
 ## 🎮 Interesses
 
-- Game Development  
-- Programação em geral  
-- Design de interfaces  
-- Projetos criativos  
+<p align="center">
+  <img src="https://img.shields.io/badge/Game_Development-🎮-black" />
+  <img src="https://img.shields.io/badge/Design-UI%2FUX-blue" />
+  <img src="https://img.shields.io/badge/Programação-Geral-orange" />
+</p>
 
 ---
 
@@ -77,29 +67,33 @@ Atualmente estou focado em evoluir minhas habilidades e construir projetos cada 
 
 ## 🔥 Projetos
 
-> (Adicione aqui seus projetos depois)
+<p align="center">
+  <img src="https://img.shields.io/badge/🚧_Em_Construção-gray" />
+</p>
 
-- 🎮 Nome do projeto — descrição curta  
-- 💻 Nome do projeto — descrição curta  
+- 🎮 Projeto em desenvolvimento — em breve  
+- 💻 Mais projetos chegando...
 
 ---
 
 ## 📫 Contato
 
-<p>
-  (coloque aqui depois: GitHub, LinkedIn, etc)
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## ⚡ Curiosidades
 
-- Gosto de aprender novas tecnologias  
-- Curto desafios de programação  
-- Sempre buscando evoluir  
+- 🧠 Curto aprender coisas novas  
+- 🎯 Gosto de desafios  
+- 🚀 Sempre evoluindo  
 
 ---
 
 <p align="center">
-  🚀 "Um passo de cada vez, mas sempre avançando."
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=100&section=footer"/>
 </p>
