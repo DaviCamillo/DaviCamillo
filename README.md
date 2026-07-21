@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Level-Dev_Junior-blue" />
-  <img src="https://img.shields.io/badge/Idade-16-blue" />
+  <img src="https://img.shields.io/badge/Idade-17-blue" />
   <img src="https://img.shields.io/badge/Local-Carlos_Barbosa_RS-green" />
   <img src="https://img.shields.io/badge/Foco-Game_Development-orange" />
 </p>
